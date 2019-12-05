@@ -1,4 +1,11 @@
-"color_schemes": {
+{
+  "name": "Theme name",
+  "about_url": "Theme about url",
+  "license_url": "Theme license url",
+   "assets": {
+        "asset-variable": "assets/background.svg"
+   },
+   "color_schemes": {
     “My_colors”: {
       "primary": "000000",
       "primary-high": "333333",
@@ -7,5 +14,4 @@
       "primary-low": “cccccc”
     }
   }
-  
- 
+}
