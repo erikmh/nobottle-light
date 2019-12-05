@@ -1,7 +1,7 @@
 {
-  "name": "Theme name",
-  "about_url": "Theme about url",
-  "license_url": "Theme license url",
+  "name": "Nobottle light",
+  "about_url": "https://github.com/erikmh/nobottle-light/readme.txt",
+  "license_url": "https://github.com/erikmh/nobottle-light/license.txt",
    "assets": {
         "asset-variable": "assets/background.svg"
    },
