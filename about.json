@@ -1,7 +1,7 @@
 {
   "name": "Nobottle light",
-  "about_url": "https://github.com/erikmh/nobottle-light/README.md",
-  "license_url": "https://github.com/erikmh/nobottle-light/LICENSE",
+  "about_url": "https://github.com/erikmh/nobottle-light/blob/master/README.md",
+  "license_url": "https://github.com/erikmh/nobottle-light/blob/master/LICENSE",
   "color_schemes": {
     “My_colors”: {
       "primary": "000000",
