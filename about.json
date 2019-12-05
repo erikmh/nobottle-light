@@ -11,6 +11,11 @@
       "primary-low": "cccccc",
       
       "secondary": "fdf6e3",
+      "secondary-very-high": "EBE4D2",
+      "secondary-high": "B0AB9D",
+      "secondary-medium": "7F7C72",
+      "secondary-low": "4C4B45",      
+      
       "tertiary": "268bd2",
       "quaternary": "cb4b16",
       "header_background": "eee8d5",
