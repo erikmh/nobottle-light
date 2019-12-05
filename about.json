@@ -4,11 +4,12 @@
   "license_url": "https://github.com/erikmh/nobottle-light/blob/master/LICENSE",
   "color_schemes": {
     "Nobottle light": {
-      "primary": "657b83",
-      "primary-high": "333333",
-      "primary-medium": "666666",
-      "primary-low-mid": "999999",
-      "primary-low": "cccccc",
+      "primary": "002b36",
+      "primary-high": "073642",
+      "primary-medium": "586e75",
+      "primary-low-mid": "657b83",
+      "primary-low": "839496",
+      "primary-very-low": "93a1a1",
       
       "secondary": "fdf6e3",
       "secondary-very-high": "EBE4D2",
