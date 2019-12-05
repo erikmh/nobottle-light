@@ -1,5 +1,14 @@
 {
   "name": "Nobottle light",
   "about_url": "https://github.com/erikmh/nobottle-light/blob/master/README.md",
-  "license_url": "https://github.com/erikmh/nobottle-light/blob/master/LICENSE"
+  "license_url": "https://github.com/erikmh/nobottle-light/blob/master/LICENSE",
+  "color_schemes": {
+    "Nobottle light": {
+      "primary": "000000",
+      "primary-high": "333333",
+      "primary-medium": "666666",
+      "primary-low-mid": "999999",
+      "primary-low": "cccccc"
+    }
+  }
 }
