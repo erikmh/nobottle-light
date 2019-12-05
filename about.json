@@ -2,10 +2,7 @@
   "name": "Nobottle light",
   "about_url": "https://github.com/erikmh/nobottle-light/README.md",
   "license_url": "https://github.com/erikmh/nobottle-light/LICENSE",
-   "assets": {
-        "asset-variable": "assets/background.svg"
-   },
-   "color_schemes": {
+  "color_schemes": {
     “My_colors”: {
       "primary": "000000",
       "primary-high": "333333",
