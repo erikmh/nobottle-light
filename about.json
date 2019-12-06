@@ -8,7 +8,7 @@
       "primary-very-high":    "073642",
       "primary-high":         "586e75",
       "primary-medium":       "657b83",
-      "primary-med-low":      "839496",
+      "primary-low-mid":      "839496",
       "primary-low":          "93a1a1",
       "primary-very-low":     "eee8d5",
       
@@ -26,8 +26,8 @@
       "quaternary":           "cb4b16",
       "quaternary-low":       "f7c6b2",
       
-      "header_background": "eee8d5",
-      "header_primary": "586e75",
+      "header_background":    "eee8d5",
+      "header_primary":       "586e75",
 
       "highlight":            "b58900",
       "highlight-high":       "d6a200",
