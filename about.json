@@ -18,11 +18,13 @@
       "secondary-low":        "4C4B45",      
       
       "tertiary":             "268bd2",
-      "tertiary-high":        "2B8FDD",
-      "tertiary-medium":      "2E99EB",
-      "tertiary-low":         "2F9CF0",
+      "tertiary-high":        "5a9fd0",
+      "tertiary-medium":      "a0bfd4",
+      "tertiary-low":         "dfe7ec",
       
-      "quaternary": "cb4b16",
+      "quaternary":           "cb4b16",
+      "quaternary-low":       "F0C2AF",
+      
       "header_background": "eee8d5",
       "header_primary": "586e75",
       "highlight": "b58900",
