@@ -5,32 +5,45 @@
   "color_schemes": {
     "Nobottle light": {
       "primary":              "002b36",
-      "primary-high":         "073642",
-      "primary-medium":       "586e75",
-      "primary-low-mid":      "657b83",
-      "primary-low":          "839496",
-      "primary-very-low":     "93a1a1",
+      "primary-very-high":    "073642",
+      "primary-high":         "586e75",
+      "primary-medium":       "657b83",
+      "primary-med-low":      "839496",
+      "primary-low":          "93a1a1",
+      "primary-very-low":     "eee8d5",
       
       "secondary":            "fdf6e3",
-      "secondary-very-high":  "EBE4D2",
-      "secondary-high":       "B0AB9D",
-      "secondary-medium":     "7F7C72",
-      "secondary-low":        "4C4B45",      
+      "secondary-very-high":  "8b9b9c",
+      "secondary-high":       "7b9093",
+      "secondary-medium":     "5e757c",
+      "secondary-low":        "03333f",      
       
       "tertiary":             "268bd2",
-      "tertiary-high":        "5a9fd0",
-      "tertiary-medium":      "a0bfd4",
-      "tertiary-low":         "dfe7ec",
+      "tertiary-high":        "4ea3df",
+      "tertiary-medium":      "90c5eb",
+      "tertiary-low":         "deeef9",
       
       "quaternary":           "cb4b16",
-      "quaternary-low":       "F0C2AF",
+      "quaternary-low":       "f7c6b2",
       
       "header_background": "eee8d5",
       "header_primary": "586e75",
-      "highlight": "b58900",
-      "danger": "dc322f",
-      "success": "859900",
-      "love": "d33682"
+
+      "highlight":            "b58900",
+      "highlight-high":       "d6a200",
+      "highlight-medium":     "ffdb6b",
+      "highlight-low":        "ffefbd",
+      
+      "danger":               "dc322f",
+      "danger-medium":        "e87a78",
+      "danger-low":           "f2b5b4",
+      
+      "success":              "859900",
+      "success-medium":       "e8ff4d",
+      "success-low":          "f6ffb8",
+      
+      "love":                 "d33682",
+      "love-low":             "f8e1ec"
     }
   }
 }
